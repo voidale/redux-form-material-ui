@@ -1,5 +1,5 @@
 {
-  "name": "redux-form-material-ui",
+  "name": "@gfpacheco/redux-form-material-ui",
   "version": "4.2.0",
   "description": "An adapter between Redux Form and Material UI components",
   "main": "./lib/index.js",
